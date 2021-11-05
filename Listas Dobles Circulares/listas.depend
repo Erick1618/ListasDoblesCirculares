@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589763614 source:d:\escritorio\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"lista.h"
+
+1589763129 d:\escritorio\listas\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1589763614 source:d:\escritorio\listas dobles circulares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro.h>
+	"lista.h"
+
+1589763129 d:\escritorio\listas dobles circulares\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
